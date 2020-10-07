@@ -13,3 +13,8 @@ Added a game Treasure of Ocean!
 Username = gdev12
 Bio = Programmer
 Fav Color - Red
+3.
+Username = Fiend-Star-666
+Bio = Gamer
+Favourite Colour = Don't have one
+Added the code for 8-piece puzzle problems
