@@ -18,3 +18,8 @@ Username = Fiend-Star-666
 Bio = Gamer
 Favourite Colour = Don't have one
 Added the code for 8-piece puzzle problems
+
+5. 
+Username = Satyagovind
+Bio = Programmer 
+Fav Color = Red 
